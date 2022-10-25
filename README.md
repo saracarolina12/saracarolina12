@@ -11,12 +11,20 @@
     </div>
 </div> -->
 
-<div class="row">
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img src="background.png" width="80%" />
+<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
+  <div>parent
+
+```html
+<component>content</component>
+`` `
+
   </div>
-  <div class="col-md-8" markdown="1">
-  Some text.
+  <div>
+child
+
+```html
+<slot>fallback content</slot>
+`` `
+
   </div>
 </div>

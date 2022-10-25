@@ -18,8 +18,7 @@
     <img src="background.png"  width="150%"/>
 </td>
 <td>
-    <p style="color:#DD56C6";>Red paragraph text</p>
-    <p style="color:#DD56C6";>Red paragraph text</p>
+    <font color='red'>test blue color font</font>
     I’m an Artificial Intelligence Engineering
     student, passionate about
     programming and its various tools to

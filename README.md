@@ -10,21 +10,26 @@
         <h1>hola</h1>
     </div>
 </div> -->
+---
+output: html_document
+---
 
-<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
-  <div>parent
+:::: {style="display: flex;"}
 
-```html
-<component>content</component>
-`` `
+::: {}
+Here is the **first** Div.
 
-  </div>
-  <div>
-child
+```{r}
+str(iris)
+```
+:::
 
-```html
-<slot>fallback content</slot>
-`` `
+::: {}
+And this block will be put on the right:
 
-  </div>
-</div>
+```{r}
+plot(iris[, -5])
+```
+:::
+
+::::

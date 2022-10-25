@@ -1,4 +1,4 @@
 # Hi, I'm Sara.
 <p align="center">
-    <img src="background.png" height="4rem" />
+    <img src="background.png" />
 </p>

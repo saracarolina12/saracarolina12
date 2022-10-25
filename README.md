@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td>
-    <img src="background.png" width="80%" />
+    <img src="background.png" />
 </td>
 <td>
     I’m an Artificial intelligence engineering

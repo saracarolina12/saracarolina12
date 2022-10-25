@@ -1,2 +1,2 @@
 # Hi, I'm Sara.
-<img src="background.png" height="500" />
+<img src="background.png" height="420" />

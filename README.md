@@ -18,7 +18,6 @@
     <img src="background.png"  width="150%"/>
 </td>
 <td>
-    <font color='red'>test blue color font</font>
     I’m an Artificial Intelligence Engineering
     student, passionate about
     programming and its various tools to

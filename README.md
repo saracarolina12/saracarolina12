@@ -20,22 +20,12 @@
 <tr>
 <td>
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
+<img src="background.png" width="80%" />
 
 </td>
 <td>
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
+<img src="background.png" width="80%" />
 
 </td>
 </tr>

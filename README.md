@@ -21,8 +21,7 @@
     I’m an Artificial Intelligence Engineering
     student, passionate about
     programming and its various tools to
-    facilitate problem solving. 
-    
+    facilitate problem solving. </br>
     Currently a
     student at Universidad Panamericana
     with a profesional objective based on

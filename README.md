@@ -11,25 +11,9 @@
     </div>
 </div> -->
 ---
-output: html_document
----
-
-:::: {style="display: flex;"}
-
-::: {}
-Here is the **first** Div.
-
-```{r}
-str(iris)
-```
-:::
-
-::: {}
-And this block will be put on the right:
-
-```{r}
-plot(iris[, -5])
-```
-:::
-
-::::
+<div class=pull-left>
+Write you first Column Text right here followed by closing Markdown Code
+</div>
+<div class=pull-right>
+Now write the Text of your 2nd Column, keep in mind that some Markdown Styling won't Work
+</div>

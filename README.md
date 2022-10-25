@@ -16,9 +16,9 @@
 <tr>
 <td>
     <img src="background.png" />
-</td>
+</td width="20%">
 <td>
-    I’m an Artificial intelligence engineering
+    I’m an Artificial Intelligence Engineering
                     student, passionate about
                     programming and its various tools to
                     facilitate problem solving. Currently a

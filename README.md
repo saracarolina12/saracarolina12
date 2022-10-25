@@ -1,4 +1,4 @@
 # Hi, I'm Sara.
 <p align="center">
-    <img src="background.png" height="80%" />
+    <img src="background.png" width="50%" />
 </p>

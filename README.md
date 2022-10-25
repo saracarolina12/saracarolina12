@@ -1,2 +1,2 @@
 # Hi, I'm Sara.
-![me:D](background.png =250x)
+<img src="./background" width="200" height="200" />

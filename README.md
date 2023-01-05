@@ -14,7 +14,7 @@
     Currently a
     student at Universidad Panamericana
     with a profesional objective based on
-    web application development and
+    software development and
     research 👩🏽‍💻
 </td>
 </tr>

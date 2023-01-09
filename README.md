@@ -28,9 +28,8 @@
 
 ---
 
-<h2> 🔹 About me </h2>
-</br>
 <div style="padding-left:15px">
+  <h2> 🔹 About me </h2>
   I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
 
   - 🤖 Artificial Intelligence Engineering student.
@@ -81,6 +80,7 @@
 ---
 
 <h2> 🔹 My Stats <h/2>
+</br>
 <!-- <div style="margin: auto;
   padding: 10px;" id="header" align="center"> -->
 

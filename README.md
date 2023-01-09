@@ -28,7 +28,7 @@
 
 # 🔹 About me
 <div style="padding-left:15px">
-  I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
+  I'm a Full stack Developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">
 
   - 🤖 Artificial Intelligence Engineering student.
 

@@ -28,7 +28,7 @@
 
 # 🔹 About me
   
-  <div style="margin-left:15px">
+  <div style="padding-left:15px">
 
   🤖 Artificial Intelligence Engineering student.
 

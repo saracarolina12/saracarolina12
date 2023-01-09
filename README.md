@@ -26,11 +26,8 @@
 </div>
 
 
-<div style="margin-bottom:-20px">
- <h2> 🔹 About me <h/2>
-</div>
+<h2> 🔹 About me </h2>
 <div>
- <h5> 
  I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> 
 
   - 🤖 Artificial Intelligence Engineering student.
@@ -43,9 +40,7 @@
 
 </div>
 
----
-
-<h2> 🔹 Languages & Tools <h/2>
+<h2> 🔹 Languages & Tools </h2>
 </br>
 
 <div>
@@ -78,8 +73,6 @@
 
 
 
----
-
 <h2> 🔹 My Stats <h/2>
 </br>
 </br>
@@ -90,10 +83,10 @@
 <!-- </div> -->
 
 
+---
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
 
----
 
 <h2> 🌸 Contact me! 🌸 </h2>
 <a href="https://github.com/saracarolina12/saracarolina12/blob/master/CV.pdf">

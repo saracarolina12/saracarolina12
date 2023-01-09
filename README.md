@@ -50,7 +50,7 @@
 # 🔹 About me
   🤖 Artificial Intelligence Engineering student.
 
-  👩🏽‍💻 Passionate about programming.
+  👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
 
   🔍 Professional objective based on software development and research.
 
@@ -61,8 +61,8 @@
 
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
-<!-- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saracarolina12&show_icons=true&theme=radical) -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saracarolina12&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
 

@@ -39,6 +39,7 @@
   - 🎵 Fun fact: I'm also a musician. I currently play guitar, drums, piano and bass.
 
   </div>
+  
 
 # 🔹 Languages & Tools
 <div>
@@ -69,7 +70,6 @@
 
 </div>
 
----
 
 
 # 🔹 My Stats
@@ -79,7 +79,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
 </div>
 
----
 
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">

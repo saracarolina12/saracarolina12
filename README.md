@@ -29,6 +29,7 @@
 ---
 
 <h2> 🔹 About me </h2>
+</br>
 <div style="padding-left:15px">
   I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
 

@@ -1,24 +1,3 @@
-<!-- <table>
-<tr>
-</tr>
-<tr>
-<td>
-    <img src="background.png"  width="150%"/>
-</td>
-<td>
-    I’m an Artificial Intelligence Engineering
-    student, passionate about
-    programming and its various tools to
-    facilitate problem solving. </br>
-    Currently a
-    student at Universidad Panamericana
-    with a profesional objective based on
-    software development and
-    research 👩🏽‍💻
-</td>
-</tr>
-</table> -->
-
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
   <h1> Hi, I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
@@ -48,13 +27,13 @@
 
 
 # 🔹 About me
-  🤖 Artificial Intelligence Engineering student.
+  - 🤖 Artificial Intelligence Engineering student.
 
-  👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
+  - 👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
 
-  🔍 Professional objective based on software development and research.
+  - 🔍 Professional objective based on software development and research.
 
-  🎵 Fun fact: I'm also a musician (guitar, drums, piano, bass).
+  - 🎵 Fun fact: I'm also a musician (guitar, drums, piano, bass).
 
 
 # 🔹 Languages & Tools

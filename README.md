@@ -25,7 +25,7 @@
   padding: 10px;" id="header" align="center">
   <h1> Hey there 👋🏽 </h1>
   <div>
-    <img src="https://github.com/saracarolina12/saracarolina12/blob/master/computer.gif" width="140"/>
+    <img src="https://github.com/saracarolina12/saracarolina12/blob/master/computer.gif" width="120"/>
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sara-carolina/">

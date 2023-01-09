@@ -57,12 +57,27 @@
   🎵 Fun fact: I'm also a musician (guitar, drums, piano, bass).
 
 
-# 🔹 My Stats
+# 🔹 Languages & Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
+
+
+</div>
+
+
+# 🔹 My Stats
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
-
-
 </div>
+
+
+
+
+# Contact me!
+[CV](https://github.com/saracarolina12/saracarolina12/blob/master/CV.pdf)

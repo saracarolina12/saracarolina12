@@ -23,7 +23,7 @@
 <div style="style="margin: auto;
   width: 50%;
   padding: 10px;" id="header" align="center">
-  <h1> Hi, I'm Sara 👋 </h1>
+  <h1> Hi, I'm Sara 👋🏽 </h1>
   <div>
     <img src="https://github.com/saracarolina12/saracarolina12/blob/master/computer.gif" width="120"/>
   </div>

@@ -58,6 +58,7 @@ I’m an Artificial Intelligence Engineering student, passionate about programmi
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
 
-![SaraGitHub stats](https://github-readme-stats.vercel.app/api?username=saracarolina12&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saracarolina12&show_icons=true&theme=radical)
+
 
 </div>

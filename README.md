@@ -87,4 +87,7 @@
 
 
 # 🔹Contact me!
-[CV](https://github.com/saracarolina12/saracarolina12/blob/master/CV.pdf)
+<a href="https://github.com/saracarolina12/saracarolina12/blob/master/CV.pdf">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png"   width="40"   height="40" />
+</a>
+

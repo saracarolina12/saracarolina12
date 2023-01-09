@@ -48,9 +48,13 @@
 
 
 # 🔹 About me
-I’m an Artificial Intelligence Engineering student, passionate about programming and its various tools to
-    facilitate problem solving. </br>
-    Currently a student at Universidad Panamericana with a profesional objective based on software development and research 👩🏽‍💻
+  🤖 Artificial Intelligence Engineering student.
+
+  👩🏽‍💻 Passionate about programming.
+
+  🔍 Professional objective based on software development and research.
+
+  🎵 Fun fact: I'm also a musician (guitar, drums, piano, bass).
 
 
 # 🔹 My Stats

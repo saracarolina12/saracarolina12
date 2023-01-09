@@ -39,6 +39,11 @@
     </a>
   </div>
 
+
+  <div align="center">
+    <img src="background.png" width="600" height="300"/>
+  </div>
+
 </div>
 </center>
 

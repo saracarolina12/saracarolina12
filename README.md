@@ -36,7 +36,7 @@
 
   🔍 Professional objective based on software development and research.
 
-  🎵 Fun fact: I'm also a musician (guitar, drums, piano, bass).
+  🎵 Fun fact: I'm also a musician. I currently play guitar, drums, piano and bass.
 
   </div>
 

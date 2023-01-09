@@ -27,6 +27,7 @@
   <div>
     <img src="https://github.com/saracarolina12/saracarolina12/blob/master/computer.gif" width="120"/>
   </div>
+  <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sara-carolina/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
@@ -39,6 +40,7 @@
     </a>
   </div>
 
+  <br>
 
   <div align="center">
     <img src="background.png" width="600" height="300"/>

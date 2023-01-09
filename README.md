@@ -18,10 +18,8 @@
 </td>
 </tr>
 </table> -->
-<center>
 
-<div style="style="margin: auto;
-  width: 50%;
+<div style="margin: auto;
   padding: 10px;" id="header" align="center">
   <h1> Hi, I'm Sara 👋🏽 </h1>
   <div>
@@ -47,6 +45,19 @@
   </div>
 
 </div>
-</center>
 
-<!-- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) -->
+
+# 🔹 About me
+I’m an Artificial Intelligence Engineering student, passionate about programming and its various tools to
+    facilitate problem solving. </br>
+    Currently a student at Universidad Panamericana with a profesional objective based on software development and research 👩🏽‍💻
+
+
+# 🔹 My Stats
+
+<div style="margin: auto;
+  padding: 10px;" id="header" align="center">
+
+![SaraGitHub stats](https://github-readme-stats.vercel.app/api?username=saracarolina12&show_icons=true&theme=radical)
+
+</div>

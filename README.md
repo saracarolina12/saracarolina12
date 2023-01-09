@@ -85,9 +85,20 @@
 
 
 
+<div style="margin: auto;
+  padding: 10px;" id="header" align="center">
 
-# 🔹Contact me!
+# 🌸 Contact me! 🌸
 <a href="https://github.com/saracarolina12/saracarolina12/blob/master/CV.pdf">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png"   width="40"   height="40" />
+</a> 
+<a href="mailto:saracarogode@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"   width="40"   height="40" />
 </a>
+<a href="https://www.linkedin.com/in/sara-carolina/"">
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"   width="40"   height="40" />
+</a>
+
+<div>
+
 

@@ -27,8 +27,8 @@
 
 
 ---
-<h2> 🔹 About me <h/2>
 <div>
+ <h2> 🔹 About me <h/2>
  <h6> 
  I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
 

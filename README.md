@@ -62,8 +62,6 @@
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saracarolina12&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
 
 

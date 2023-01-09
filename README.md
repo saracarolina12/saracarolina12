@@ -67,13 +67,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40" title="Linux"/>
 
-
-
-
-
-
-
 </div>
+
+---
 
 
 # 🔹 My Stats
@@ -83,7 +79,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
 </div>
 
-
+---
 
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">

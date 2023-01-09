@@ -26,7 +26,9 @@
 </div>
 
 
-# 🔹 About me
+---
+
+<h2> 🔹 About me </h2>
 <div style="padding-left:15px">
   I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
 
@@ -40,8 +42,10 @@
 
   </div>
 
+---
 
-# 🔹 Languages & Tools
+<h2> 🔹 Languages & Tools <h/2>
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
@@ -72,7 +76,9 @@
 
 
 
-# 🔹 My Stats
+---
+
+<h2> 🔹 My Stats <h/2>
 <!-- <div style="margin: auto;
   padding: 10px;" id="header" align="center"> -->
 
@@ -83,7 +89,9 @@
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
 
-# 🌸 Contact me! 🌸
+---
+
+<h2> 🌸 Contact me! 🌸 </h2>
 <a href="https://github.com/saracarolina12/saracarolina12/blob/master/CV.pdf">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png"   width="40"   height="40" />
 </a> 

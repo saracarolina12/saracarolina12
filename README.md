@@ -44,7 +44,7 @@
 ---
 
 <h2> 🔹 Languages & Tools </h2>
-
+</br>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>

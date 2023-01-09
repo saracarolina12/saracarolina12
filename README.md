@@ -28,7 +28,7 @@
 
 ---
 <div style="margin-bottom:-10px">
- <h2> 🔹 About me <h/2>
+ <h2> 🔹 About me </h2>
 </div>
 <div>
  <h5> 

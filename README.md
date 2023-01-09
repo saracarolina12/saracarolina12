@@ -26,9 +26,8 @@
 </div>
 
 
----
-<div style="margin-bottom:-10px">
- <h2> 🔹 About me </h2>
+<div style="margin-bottom:-20px">
+ <h2> 🔹 About me <h/2>
 </div>
 <div>
  <h5> 

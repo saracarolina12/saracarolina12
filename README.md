@@ -19,20 +19,26 @@
 </tr>
 </table> -->
 <center>
-<h1> Hey there 👋🏽 </h1>
-<div id="header" align="center">
-  <img src="https://github.com/saracarolina12/saracarolina12/blob/master/computer.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sara-carolina/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="mailto:saracarogode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://leetcode.com/0226594/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
-  </a>
+
+<div style="style="margin: auto;
+  width: 50%;
+  padding: 10px;" id="header" align="center">
+  <h1> Hey there 👋🏽 </h1>
+  <div>
+    <img src="https://github.com/saracarolina12/saracarolina12/blob/master/computer.gif" width="100"/>
+  </div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/sara-carolina/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="mailto:saracarogode@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://leetcode.com/0226594/">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
+    </a>
+  </div>
+
 </div>
 </center>
 

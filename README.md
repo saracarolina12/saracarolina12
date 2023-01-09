@@ -27,14 +27,18 @@
 
 
 # 🔹 About me
-  - 🤖 Artificial Intelligence Engineering student.
+  
+  <div style="margin-left:15px">
 
-  - 👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
+  🤖 Artificial Intelligence Engineering student.
 
-  - 🔍 Professional objective based on software development and research.
+  👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
 
-  - 🎵 Fun fact: I'm also a musician (guitar, drums, piano, bass).
+  🔍 Professional objective based on software development and research.
 
+  🎵 Fun fact: I'm also a musician (guitar, drums, piano, bass).
+
+  </div>
 
 # 🔹 Languages & Tools
 <div>

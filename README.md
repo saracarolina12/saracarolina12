@@ -27,16 +27,16 @@
 
 
 # 🔹 About me
-  
-  <div style="padding-left:15px">
+<div style="padding-left:15px">
+  I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
 
-  🤖 Artificial Intelligence Engineering student.
+  - 🤖 Artificial Intelligence Engineering student.
 
-  👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
+  - 👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
 
-  🔍 Professional objective based on software development and research.
+  - 🔍 Professional objective based on software development and research.
 
-  🎵 Fun fact: I'm also a musician. I currently play guitar, drums, piano and bass.
+  - 🎵 Fun fact: I'm also a musician. I currently play guitar, drums, piano and bass.
 
   </div>
 

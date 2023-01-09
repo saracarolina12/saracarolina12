@@ -27,7 +27,7 @@
 
 
 ---
-<h2> 🔹 About me <h/2>
+<h2> 🔹 About me </h2>
 <div>
   I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
 
@@ -43,8 +43,8 @@
 
 ---
 
-<h2> 🔹 Languages & Tools <h/2>
-</br></br>
+<h2> 🔹 Languages & Tools </h2>
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>

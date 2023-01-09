@@ -32,7 +32,9 @@
 " alt="Gmail Badge"/>
   </a>
   <a href="https://leetcode.com/0226594/">
-    <img src="	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
   </a>
 </div>
 </center>
+
+<!-- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) -->

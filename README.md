@@ -75,11 +75,10 @@
 <h2> 🔹 My Stats <h/2>
 </br>
 </br>
-<!-- <div style="margin: auto;
-  padding: 10px;" id="header" align="center"> -->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
-<!-- </div> -->
+ <div style="margin: auto;
+  padding: 10px;" id="header" align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
+</div> 
 
 
 

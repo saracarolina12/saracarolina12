@@ -76,12 +76,13 @@
 </br>
 </br>
 <div align="center">
-  
   <div style="margin: auto; padding: 10px;" id="header">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=saracarolina12&theme=dark)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=saracarolina12&theme=dark" alt="GitHub Streak">
+    </a>
   </div>
-
 </div>
+
 
 
 

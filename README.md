@@ -1,7 +1,8 @@
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">
-  <h1> Hi, I'm Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-<!--   <div>
+  <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+  <h1> Hi, I'm Sara 🌼 </h1>
+  <!--   <div>
     <img src="https://github.com/saracarolina12/saracarolina12/blob/master/computer.gif" width="120"/>
   </div> -->
   <br>

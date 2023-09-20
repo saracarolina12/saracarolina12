@@ -76,18 +76,11 @@
 <h2> 🔹 My Stats <h/2>
 </br>
 </br>
-<!-- <div align="center">
-  <div style="margin: auto; padding: 10px;" id="header"> -->
-    <a href="https://git.io/streak-stats">
+<!--     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=saracarolina12&theme=dark" alt="GitHub Streak">
-    </a>
-<!--   </div>
-</div>
- -->
+    </a> -->
 
-
-
-
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <div style="margin: auto;
   padding: 10px;" id="header" align="center">

@@ -29,15 +29,15 @@
 
 <h2> 🔹 About me </h2>
 <div>
- I'm a Full stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> 
+ I'm a Full Stack Developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> 
 
-  - 🤖 Artificial Intelligence Engineering student.
+  - 🤖 Artificial Intelligence Engineer
 
   - 👩🏽‍💻 Passionate about programming and its various tools to facilitate problem solving.
 
   - 🔍 Professional objective based on software development and research.
 
-  - 🎵 Fun fact: I'm also a musician. I currently play guitar, drums, bass and piano.
+  - 🎵 Fun fact: I'm also a musician. I currently play guitar, drums and bass.
 
 </div>
 
